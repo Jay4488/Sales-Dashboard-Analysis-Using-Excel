@@ -21,6 +21,8 @@ Product Information: Product Code, Product Name, and Quantity Sold.
 Sales & Profit Metrics: Selling Price (SP), Cost Price (CP), Total CP, Total SP, and Total Profit.
 Regional Sales: Different regions (East, West, North) are included.
 Time-Based Data: Year and Month for trend analysis.
+
+
 2. Key Insights from the Sales Data
 a) Sales Performance
 The dataset tracks Total Sales Price (Total SP) and Total Profit for each order.
@@ -34,6 +36,8 @@ Identifying which region contributes the most to sales can help in targeted mark
 d) Monthly & Yearly Trends
 The dataset contains data categorized by Month and Year, allowing for a time-series analysis of sales performance.
 Identifying seasonal trends helps businesses prepare for high and low sales periods.
+
+
 3. Next Steps & Possible Visualizations
 Using Excel Dashboards, Pivot Tables, and Charts, the following insights can be visualized:
 ✅ Sales Trends Over Time – Monthly & yearly performance tracking.
